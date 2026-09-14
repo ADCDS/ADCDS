@@ -31,17 +31,16 @@
 
 *Straight to coffee, cat food and tokens.*
 
-<table width="100%">
+<table>
 <tr>
 <th>Asset</th>
 <th>Address</th>
+<th>PIX QR</th>
 </tr>
 <tr>
 <td><strong>PIX<br>(BRL)</strong></td>
-<td>
-<a href="pix-qr.png"><img src="pix-qr.png" alt="PIX QR code" width="96" align="right"></a>
-<code>dfbaa96c-b191-4619-b539-b7877e892a63</code>
-</td>
+<td><code>dfbaa96c-b191-4619-b539-b7877e892a63</code></td>
+<td rowspan="5" align="center" valign="middle"><a href="pix-qr.png"><img src="pix-qr.png" alt="PIX QR code" width="180"></a></td>
 </tr>
 <tr>
 <td><strong>Bitcoin<br>(BTC)</strong><br><sub>Taproot · Mainnet</sub></td>
