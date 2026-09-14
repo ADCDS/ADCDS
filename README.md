@@ -31,7 +31,7 @@
 
 *Straight to coffee, cat food and tokens.*
 
-<table>
+<table width="100%">
 <tr>
 <th>Asset</th>
 <th>Address</th>
